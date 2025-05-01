@@ -1,0 +1,14 @@
+C:\Users\hanza\AbxClient\bin\Debug\net9.0\AbxClient.exe
+C:\Users\hanza\AbxClient\bin\Debug\net9.0\AbxClient.deps.json
+C:\Users\hanza\AbxClient\bin\Debug\net9.0\AbxClient.runtimeconfig.json
+C:\Users\hanza\AbxClient\bin\Debug\net9.0\AbxClient.dll
+C:\Users\hanza\AbxClient\bin\Debug\net9.0\AbxClient.pdb
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.AssemblyInfoInputs.cache
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.AssemblyInfo.cs
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.csproj.CoreCompileInputs.cache
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.dll
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\refint\AbxClient.dll
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.pdb
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\AbxClient.genruntimeconfig.cache
+C:\Users\hanza\AbxClient\obj\Debug\net9.0\ref\AbxClient.dll
